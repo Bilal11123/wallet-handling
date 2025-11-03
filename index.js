@@ -19,4 +19,4 @@ import entity_secret from "./src/entity_secret.js"
 // import createAmoyWallet from './src/createAmoyWallet.js';
 // const {id, blockchain, accountType, address } = createAmoyWallet()
 // console.log("My Wallet ID", id)
-// Save your wallet ID
+// Save your wallet ID and address
